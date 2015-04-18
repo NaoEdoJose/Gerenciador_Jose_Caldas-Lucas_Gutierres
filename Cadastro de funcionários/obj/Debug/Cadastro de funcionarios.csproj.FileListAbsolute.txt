@@ -1,0 +1,36 @@
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe.config
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.pdb
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Form1.resources
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Properties.Resources.resources
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csproj.GenerateResource.Cache
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.exe
+C:\Users\Mauricio.Silva\Desktop\Trabalho do trio maravilha\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.pdb
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe.config
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.exe
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.pdb
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.pdb
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Form1.resources
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Properties.Resources.resources
+C:\Users\Mauricio.Silva\Desktop\2003_Cadastro_Funcionarios\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csproj.GenerateResource.Cache
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe.config
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.exe
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.pdb
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.pdb
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Form1.resources
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Properties.Resources.resources
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Cadastro de funcionários\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csproj.GenerateResource.Cache
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe.config
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.exe
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro de funcionários.pdb
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Form1.resources
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro_de_funcionarios.Properties.Resources.resources
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\obj\Debug\Cadastro de funcionarios.csproj.GenerateResource.Cache
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.exe
+C:\Users\Claudia\Desktop\2003_Cadastro_Funcionarios-master\Gerenciador\Cadastro de funcionários\bin\Debug\Cadastro de funcionários.pdb
